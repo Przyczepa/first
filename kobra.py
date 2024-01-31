@@ -1,1 +1,1 @@
-print("apsik");
+print("apsik")
